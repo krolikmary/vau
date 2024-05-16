@@ -1,0 +1,25 @@
+div {
+   font-family: Arial, sans-serif;
+   font-size: 12px;
+   color: #555555;
+ }
+ 
+ .title {
+   font-family: Arial, sans-serif;
+   font-size: 12px;
+   color: #336699;
+   text-decoration: underline;
+ }
+ 
+ a {
+   font-family: Arial, sans-serif;
+   font-size: 12px;
+   color: #336699;
+   text-decoration: none;
+ }
+ 
+ a:hover {
+   color: #990000;
+   text-decoration: underline;
+ }
+ 
